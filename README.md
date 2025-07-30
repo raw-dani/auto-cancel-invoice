@@ -51,7 +51,8 @@ Dalam pengelolaan hosting atau layanan berlangganan, seringkali banyak invoice y
 2. Ekstrak file tersebut dan temukan folder `auto_cancel_module`.
 
 3. Upload folder `auto_cancel_module` beserta isinya ke direktori instalasi WHMCS Anda di:
-```/path/to/whmcs/modules/addons/auto_cancel_module
+```
+/path/to/whmcs/modules/addons/auto_cancel_module
 ```
 Setelah upload selesai, pastikan hak akses folder dan file sudah benar (umumnya 755 untuk folder dan 644 untuk file).
 
